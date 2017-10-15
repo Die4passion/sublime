@@ -1,0 +1,1205 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"is",
+				"is_array"
+			],
+			[
+				"array_",
+				"array_filter"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"a",
+				"array3"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"rec",
+				"record"
+			],
+			[
+				"worker_",
+				"worker_order"
+			],
+			[
+				"Yii",
+				"yii\\helpers\\ArrayHelper"
+			],
+			[
+				"yiicont",
+				"yii\\web\\Controller"
+			],
+			[
+				"yii",
+				"yii\\db\\Expression"
+			],
+			[
+				"Contro",
+				"yii\\web\\Controller"
+			],
+			[
+				"Controller",
+				"Controller"
+			],
+			[
+				"Ac",
+				"ActiveRecord"
+			],
+			[
+				"4_",
+				"4_order.php"
+			],
+			[
+				"text",
+				"text"
+			],
+			[
+				"tex",
+				"textarea"
+			],
+			[
+				"body",
+				"body"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"btn",
+				"btn-success \tBootstrap 3 Class"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"col-sm-off",
+				"col-sm-offset-1 \tBootstrap 3 Class"
+			],
+			[
+				"btn-",
+				"btn-primary \tBootstrap 3 Class"
+			],
+			[
+				"form",
+				"form-group \tBootstrap 3 Class"
+			],
+			[
+				"b3f",
+				"bs3-form:horizontal\tbs3-form-horizontal"
+			],
+			[
+				"col",
+				"col-lg-1 \tBootstrap 3 Class"
+			],
+			[
+				"b3l",
+				"bs3-label\tbs3-label"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"col-lg-",
+				"col-lg-offset-2 \tBootstrap 3 Class"
+			],
+			[
+				"b3s",
+				"bs3-select\tbs3-select"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"b3se",
+				"bs3-select\tbs3-select"
+			],
+			[
+				"b3c",
+				"bs3-container\tbs3-container"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"modal",
+				"modal-content \tBootstrap 3 Class"
+			],
+			[
+				"alert",
+				"alert-warning \tBootstrap 3 Class"
+			],
+			[
+				"col-lg-off",
+				"col-lg-offset-4 \tBootstrap 3 Class"
+			],
+			[
+				"aler",
+				"alert-dismissable \tBootstrap 3 Class"
+			],
+			[
+				"al",
+				"alert-warning \tBootstrap 3 Class"
+			],
+			[
+				"col-lg-o",
+				"col-lg-offset-4 \tBootstrap 3 Class"
+			],
+			[
+				"col-lg",
+				"col-lg-6 \tBootstrap 3 Class"
+			],
+			[
+				"ba",
+				"bs3-alert:success\tbs3-alert-success"
+			],
+			[
+				"bc",
+				"bs3-carousel\tbs3-carousel"
+			],
+			[
+				"bp",
+				"bs3-pager\tbs3-pager"
+			],
+			[
+				"table",
+				"table-striped \tBootstrap 3 Class"
+			],
+			[
+				"btable",
+				"bs3-table:responsive\tbs3-table-responsive"
+			],
+			[
+				"b3t",
+				"bs3-toolbar\tbs3-button-toolbar"
+			],
+			[
+				"co",
+				"control-label \tBootstrap 3 Class"
+			],
+			[
+				"hi",
+				"hidden-xs \tBootstrap 3 Class"
+			],
+			[
+				"visi",
+				"visible-lg \tBootstrap 3 Class"
+			],
+			[
+				"col-xs",
+				"col-xs-3 \tBootstrap 3 Class"
+			],
+			[
+				"clo-md",
+				"col-md-3 \tBootstrap 3 Class"
+			],
+			[
+				"col-md",
+				"col-md-4 \tBootstrap 3 Class"
+			],
+			[
+				"col-l",
+				"col-lg-4 \tBootstrap 3 Class"
+			],
+			[
+				"d",
+				"alert-danger \tBootstrap 3 Class"
+			],
+			[
+				"btn-s",
+				"btn-success \tBootstrap 3 Class"
+			],
+			[
+				"b3-b",
+				"bs3-button\tbs3-button"
+			],
+			[
+				"bs3",
+				"bs3-form\tbs3-form"
+			],
+			[
+				"cont",
+				"container-fluid \tBootstrap 3 Class"
+			],
+			[
+				"fo",
+				"form-group"
+			],
+			[
+				"prism",
+				"prism-themes"
+			],
+			[
+				"con",
+				"continue"
+			],
+			[
+				"dis",
+				"display\t = 'none' Style CSS"
+			],
+			[
+				"old",
+				"old_inputs"
+			],
+			[
+				"ol",
+				"old_inputs"
+			],
+			[
+				"goods",
+				"goods_id"
+			],
+			[
+				"next",
+				"nextSibling\t(): Node TreeWalker"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"goods_s",
+				"goods_stocks"
+			],
+			[
+				"good",
+				"good_stock"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"close",
+				"closest"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"ce",
+				"cellspacing\tAttr"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"this",
+				"thisid"
+			],
+			[
+				"loca",
+				"locations"
+			],
+			[
+				"GE",
+				"_GET"
+			],
+			[
+				"on",
+				"onclick\tAttr"
+			],
+			[
+				"sle",
+				"selected"
+			],
+			[
+				"wr",
+				"write\t( text_..: DOMString ): void Document"
+			],
+			[
+				"wi",
+				"width\t Style CSS"
+			],
+			[
+				"sel",
+				"select"
+			],
+			[
+				"marig",
+				"margin-right"
+			],
+			[
+				"po",
+				"pos-r\tposition: relative;"
+			],
+			[
+				"lis",
+				"lis-n\tlist-style: none;"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"valueof",
+				"valueOf\t(): string String"
+			],
+			[
+				"if",
+				"if\tif …"
+			],
+			[
+				"ajax",
+				"ajax_request"
+			],
+			[
+				"lo",
+				"log\t( x: number ): number Math"
+			],
+			[
+				"java",
+				"javascript"
+			],
+			[
+				"char",
+				"charAt\t( pos: int ): string String"
+			],
+			[
+				"par",
+				"parseInt\t( s: string, radix: int ): int Global"
+			],
+			[
+				"doc",
+				"document\t: Document Window"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"maig",
+				"margin"
+			],
+			[
+				"check",
+				"checkbox"
+			],
+			[
+				"cons",
+				"console_log"
+			],
+			[
+				"Money",
+				"MoneyModel"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"uns",
+				"unsigned"
+			],
+			[
+				"class",
+				"class_id"
+			],
+			[
+				"page",
+				"pageData"
+			],
+			[
+				"row",
+				"rows"
+			],
+			[
+				"pages",
+				"getPageGoods"
+			],
+			[
+				"pr",
+				"private"
+			],
+			[
+				"get",
+				"getPage"
+			],
+			[
+				"thu",
+				"thumb_logo"
+			],
+			[
+				"mime",
+				"mimeType"
+			],
+			[
+				"out",
+				"outFuns"
+			],
+			[
+				"max",
+				"max_height"
+			],
+			[
+				"src",
+				"src_height"
+			],
+			[
+				"th",
+				"thumb_img"
+			],
+			[
+				"thum",
+				"thumb_img"
+			],
+			[
+				"cre",
+				"createFun"
+			],
+			[
+				"creat",
+				"createFuns"
+			],
+			[
+				"image",
+				"imagesize"
+			],
+			[
+				"s",
+				"scr_path"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/20150815/Desktop/829todo.md",
+			"settings":
+			{
+				"buffer_size": 3243,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/wwwww/try/try.php",
+			"settings":
+			{
+				"buffer_size": 531,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 446.0,
+		"last_filter": "op",
+		"selected_items":
+		[
+			[
+				"op",
+				"Project Manager: Open Project"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pm",
+				"Project Manager: Add New Project"
+			],
+			[
+				"pc",
+				"Package Control: Remove Package"
+			],
+			[
+				"pcip",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"oop",
+				"Project Manager: Open Project"
+			],
+			[
+				"pmo",
+				"Project Manager: Open Project"
+			],
+			[
+				"pmp",
+				"Project Manager: Open Project"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pcr",
+				"Package Control: Remove Package"
+			],
+			[
+				"opp",
+				"Project Manager: Open Project"
+			],
+			[
+				"co",
+				"Color Picker"
+			],
+			[
+				"picp",
+				"Package Control: Install Package"
+			],
+			[
+				"file",
+				"File: New Folder Relative to Project Root"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"c",
+				"Color Picker"
+			],
+			[
+				"PM",
+				"Project Manager: Open Project"
+			],
+			[
+				"p",
+				"Project Manager: Edit Project"
+			],
+			[
+				"cp",
+				"Color Picker"
+			],
+			[
+				"newp",
+				"Project Manager: Add New Project"
+			],
+			[
+				"mkps",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"pcd",
+				"Package Control: Disable Package"
+			],
+			[
+				"mke",
+				"MarkdownEditing: Find Previous Heading (Same or higher level)"
+			],
+			[
+				"mkp",
+				"Markdown Preview: Export HTML in Sublime Text"
+			],
+			[
+				"mk",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdown ex",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"boxy",
+				"Boxy Theme: Activation"
+			],
+			[
+				"toggle",
+				"View: Toggle Menu"
+			],
+			[
+				"view",
+				"View: Toggle Menu"
+			],
+			[
+				"opf",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"vie",
+				"View: Toggle Minimap"
+			],
+			[
+				"",
+				"A File Icon: Settings"
+			],
+			[
+				"vi",
+				"View: Toggle Minimap"
+			],
+			[
+				"v",
+				"View: Toggle Minimap"
+			],
+			[
+				"package controli",
+				"Package Control: Install Package"
+			],
+			[
+				"clor",
+				"Color Picker"
+			],
+			[
+				"ma",
+				"Material Theme: Activate theme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: r",
+				"Package Control: Remove Package"
+			],
+			[
+				"php",
+				"File: Copy Path"
+			],
+			[
+				"install",
+				"Package Control: Advanced Install Package"
+			]
+		],
+		"width": 763.0
+	},
+	"console":
+	{
+		"height": 158.0,
+		"history":
+		[
+			"Setting-User",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/wwwww/try"
+	],
+	"file_history":
+	[
+		"/C/Users/20150815/Desktop/restdo.txt",
+		"/D/Download/us03-9.55boom.net.conf",
+		"/D/warning!!!/Shadowsocks-2.5.8/gui-config.json",
+		"/D/warning!!!/Shadowsocks-2.5.8/statistics-config.json",
+		"/D/Program Files/aria2-1.32.0/aria2.conf",
+		"/C/Users/20150815/Desktop/todolist.txt",
+		"/F/All/Darkwave/the last dance/she is dancing.txt",
+		"/D/Program Files/aria2-1.32.0/aria2.session",
+		"/E/_Notes/blog/_includes/comments.html",
+		"/E/_Notes/blog/index.html",
+		"/E/_Notes/blog/archive.html",
+		"/E/_Notes/blog/_layouts/post.html",
+		"/E/_Notes/blog/_layouts/default.html",
+		"/E/_Notes/blog/_layouts/page.html",
+		"/E/_Notes/blog/_includes/pagination.html",
+		"/E/_Notes/blog/_includes/read-more.html",
+		"/E/_Notes/blog/_posts/2017-10-01-algorithm.md",
+		"/E/_Notes/blog/about.md",
+		"/E/_Notes/blog/_includes/footer.html",
+		"/E/_Notes/blog/_includes/side-panel.html",
+		"/E/_Notes/blog/_posts/2017-10-3-some words.md",
+		"/H/前端学习/CSS预处理工具/闭包/循环点击.html",
+		"/H/first/die/conn.php",
+		"/E/_Notes/newblog/archive.html",
+		"/E/_Notes/blog/_site/CNAME",
+		"/E/_Notes/blog/CNAME",
+		"/E/_Notes/blog/_config.yml",
+		"/E/_Notes/newblog/about.md",
+		"/E/_Notes/newblog/_layouts/post.html",
+		"/E/_Notes/newblog/index.html",
+		"/E/_Notes/newblog/_includes/pagination.html",
+		"/E/_Notes/newblog/_site/index.html",
+		"/E/_Notes/newblog/_site/css/main.css",
+		"/E/_Notes/newblog/_includes/styles/main.css",
+		"/E/_Notes/newblog/_config.yml",
+		"/E/_Notes/newblog/tags.html",
+		"/E/_Notes/newblog/README.md",
+		"/E/_Notes/newblog/CNAME",
+		"/E/_Notes/newblog/_site/README.md",
+		"/E/_Notes/newblog/_site/CNAME",
+		"/E/_Notes/newblog/_includes/new-old.html",
+		"/E/_Notes/newblog/_includes/side-panel.html",
+		"/E/_Notes/newblog/_includes/comments.html",
+		"/E/_Notes/newblog/_posts/2017-01-03-iOS_Wifilist.md",
+		"/E/_Notes/newblog/_posts/2015-09-26-iOS9_Note.md",
+		"/E/_Notes/newblog/_posts/2016-11-20-neural_networks_using_TensorFlow.md",
+		"/E/_Notes/newblog/_includes/head.html",
+		"/E/_Notes/newblog/_layouts/default.html",
+		"/E/_Notes/newblog/_layouts/page.html",
+		"/E/_Notes/newblog/_site/about/index.html",
+		"/D/ynot/ezphp/docment/php/blog/conn.php",
+		"/E/_Notes/newblog/_includes/footer.html",
+		"/E/_Notes/newblog/_includes/external.html",
+		"/E/_Notes/newblog/_site/css/tomorrow.css",
+		"/E/_Notes/newblog/_includes/read-more.html",
+		"/E/_Notes/study-notes/notes/package.json",
+		"/E/_Notes/newblog/_includes/JB/tags_list",
+		"/E/_Notes/newblog/_includes/JB/setup",
+		"/E/_Notes/newblog/_includes/JB/pages_list",
+		"/E/_Notes/newblog/_posts/2017-6-11-tools.md",
+		"/E/_Notes/newblog/_posts/2017-08-11-to_remember.md",
+		"/E/_Notes/newblog/_posts/2017-10-3-some words.md",
+		"/E/_Notes/newblog/_posts/2017-10-01-algorithm.md",
+		"/E/_Notes/newblog/_posts/tools.md",
+		"/E/_Notes/newblog/_posts/to_remember.md",
+		"/E/wwwww/try/try.php",
+		"/E/_Notes/newblog/_posts/rensheng.md",
+		"/E/_Notes/newblog/_posts/78.md",
+		"/E/_Notes/newblog/_posts/2017-10-3.md",
+		"/C/Users/20150815/Desktop/chat.md",
+		"/C/Users/20150815/Desktop/api_cash .html",
+		"/C/Users/20150815/Desktop/mix.sql",
+		"/E/_Notes/study-notes/notes/scripts/deploy-gh-pages.js",
+		"/E/_Notes/study-notes/notes/.gitignore",
+		"/E/_Notes/study-notes/notes/npm-debug.log",
+		"/E/_Notes/study-notes/notes/git/git-bash.md",
+		"/E/_Notes/study-notes/notes/content/git/git-bash.md",
+		"/E/_Notes/study-notes/notes/content/tools/phps/shortcuts.md",
+		"/D/Download/config.rvdata",
+		"/C/Users/20150815/Desktop/api_cash (2).html",
+		"/C/Users/20150815/Desktop/api_cash.html",
+		"/C/Users/20150815/AppData/Roaming/Caret/Themes/GitHub.css",
+		"/C/Users/20150815/Documents/WeChat Files/witheredlove/Files/supplieraccount(1).html",
+		"/C/Users/20150815/Desktop/vim.md",
+		"/E/wwwww/yii2sb/vendor/yiisoft/yii2/data/Pagination.php",
+		"/C/Users/20150815/AppData/Roaming/Sublime Text 3/Packages/Alignment/Default (Windows).sublime-keymap",
+		"/C/Users/20150815/Desktop/新建文本文档.txt",
+		"/E/wwwww/record/inc/common.php",
+		"/C/Users/20150815/AppData/Roaming/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+		"/C/Users/20150815/Desktop/follow.html",
+		"/C/Users/20150815/Desktop/worker.sql",
+		"/C/Users/20150815/Desktop/lhzz.sql",
+		"/C/Users/20150815/Desktop/829todo.md",
+		"/E/wwwww/yii2sb/backend/models/LoginForm.php",
+		"/E/wwwww/yii2sb/backend/models/Goods.php",
+		"/E/_Notes/myblog/blog/_config.yml",
+		"/E/_Notes/myblog/blog/_posts/2017-09-07-vim.markdown",
+		"/E/_Notes/myblog/blog/_posts/2017-09-07-vim2.md",
+		"/E/_Notes/myblog/blog/_posts/2017-09-07-vim444.md",
+		"/E/_Notes/myblog/blog/_posts/2017-09-07-vimmm.md",
+		"/E/_Notes/myblog/blog/_posts/2017-09-07-vim.md",
+		"/E/_Notes/study-notes/notes/content/html/CSS_DAY3.md",
+		"/E/_Notes/study-notes/notes/scripts/deploy-gitbook.js",
+		"/E/_Notes/study-notes/notes/content/book.json",
+		"/E/_Notes/study-notes/notes/content/node_modules/gitbook-plugin-editlink/index.js",
+		"/C/Users/20150815/.gitbook/versions/3.2.2/lib/output/website/copyPluginAssets.js",
+		"/E/_Notes/study-notes/notes/content/SUMMARY.md",
+		"/C/Users/20150815/AppData/Roaming/Sublime Text 3/Packages/MarkdownTOC/MarkdownTOC.sublime-settings",
+		"/C/Users/20150815/Desktop/123456.html",
+		"/C/Users/20150815/Documents/WeChat Files/witheredlove/Files/worker_item.sql",
+		"/C/Users/20150815/Documents/WeChat Files/witheredlove/Files/worker_type.sql",
+		"/C/Users/20150815/Desktop/824todo.md",
+		"/E/wwwww/yii2sb/backend/filters/AdminFilter.php",
+		"/E/wwwww/yii2sb/backend/controllers/GoodsController.php",
+		"/C/Users/20150815/Desktop/user_follow.sql",
+		"/C/Users/20150815/Desktop/follow.sql",
+		"/C/Users/20150815/Desktop/sql.sql",
+		"/C/Users/20150815/Desktop/followw.html",
+		"/C/Users/20150815/Desktop/evilcos_rss_2014.opml",
+		"/C/Users/20150815/Desktop/sun todo.txt",
+		"/E/wwwww/mvc2/shop/Framework/Tools/DB.class.php",
+		"/C/Users/20150815/Desktop/new.sql",
+		"/C/Users/20150815/Desktop/824todo.txt",
+		"/C/Users/20150815/Desktop/822todo.txt",
+		"/E/wwwww/yii2sb/backend/views/goods-category/index.php",
+		"/C/Users/20150815/Desktop/api_cash - 副本.html",
+		"/E/_Notes/txts/mysite.md",
+		"/C/Users/20150815/Desktop/params.php"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"#",
+			"---",
+			"css",
+			"blog",
+			"个人站",
+			"uyan",
+			"post-data",
+			"date",
+			"友",
+			"read-more",
+			"readmore",
+			"h3",
+			"labor",
+			"all",
+			"',\n",
+			"79",
+			"提现中",
+			"未提现",
+			"未体现",
+			"15",
+			"get参数",
+			"style",
+			"标题1",
+			"worker_type修改字段parent_id\nworker_order修改字段worker_type_id的注释",
+			"19",
+			"');\n",
+			"follower_number",
+			"代表",
+			"time_id",
+			"page",
+			"url",
+			"02goods_list.php",
+			"form",
+			"published",
+			"regeneration",
+			"time",
+			"</div>",
+			"姓名",
+			"p",
+			"html",
+			"HTML",
+			"html",
+			"HTML",
+			"html",
+			"blur",
+			"success",
+			"\"",
+			">\n",
+			"if (!isset($data['hobby'])) {\n\tdie(\"请至少选择一个爱好\");\n}",
+			"hobby",
+			"table :input",
+			"cdrom",
+			"####",
+			"|\n",
+			"nb",
+			"&emsp;&emsp;",
+			"，",
+			">>",
+			"tail",
+			"、",
+			"paas",
+			"text",
+			"type",
+			"<",
+			"forbidden",
+			"Directory access is forbidden",
+			"conditions",
+			"currentPage",
+			"paramsArr",
+			"echo",
+			"var_",
+			"$pages",
+			"POST",
+			"scr",
+			";\n",
+			"public",
+			"width",
+			"GLOBLE",
+			"CURRENT_CONTROLLER_PATH",
+			"PLATFORM_NAME",
+			"、",
+			"、相关专业，大专以上学历；",
+			"、",
+			"strtolower",
+			"target",
+			"\">\n",
+			"old_password",
+			"password",
+			"select",
+			"username",
+			"\t\t\n",
+			"'];\n",
+			"category",
+			"Category",
+			"category",
+			"Category",
+			"category",
+			"Category",
+			"category",
+			"Category",
+			"category",
+			"Category",
+			"category",
+			"Category",
+			"category",
+			"Category",
+			"category",
+			"Category",
+			"category",
+			"Category",
+			"category",
+			"Category",
+			"category",
+			"Category",
+			"category",
+			"Category",
+			"category",
+			"Category",
+			"default",
+			"Controller",
+			"\"CURRENT_CONTROLLER_PATH\"",
+			"\"",
+			"a",
+			"b",
+			"a",
+			"View",
+			"VIEW_PATH",
+			"Controller"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/20150815/Desktop/829todo.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3243,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3240,
+								3240
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Boxy Solarized Dark.tmTheme",
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"parser": "markdown",
+							"syntax": "Packages/Markdown Extended/Syntaxes/Markdown Extended.sublime-syntax",
+							"target": "disk",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3147.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/E/wwwww/try/try.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 531,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								531,
+								531
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 52.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 142.0
+	},
+	"pinned_build_system": "",
+	"project": "work.sublime-project",
+	"replace":
+	{
+		"height": 59.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"die",
+				"F:\\All\\Doom\\Estatic.Fear\\Somnium Obmutum.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 407.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
